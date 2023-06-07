@@ -1,4 +1,4 @@
-# chatbot_by_chatgpt
+# nodejs-neo4j
 Python script mostly produced by chatgpt.
 
 installation
